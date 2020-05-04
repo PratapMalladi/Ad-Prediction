@@ -1,14 +1,15 @@
-## Ads Click-Through Rate (CTR) Prediction
+## Ads Click-Through Rate (CTR) Prediction (Online Advertising, Google PPC, AdWords Campaign, Mobile Ads)
 
-## Online Advertising, Google PPC, AdWords Campaign, Mobile Ads
+# Given a user and the page he (or she) is visiting. what is the probability that he (or she) will click on a given ad? The goal of this analysis is to benchmark the most accurate ML algorithms for CTR estimation.
 
-## In Internet marketing, click-through rate (CTR) is a metric that measures the number of clicks advertisers receive on their ads per number of impressions.
+# In Internet marketing, click-through rate (CTR) is a metric that measures the number of clicks advertisers receive on their ads per number of impressions.
 
-## Mobile has become seamless with all channels, and mobile is the driving force with what’s driving all commerce. Mobile ads are expected to generate $1.08 billion year on year.
+# Mobile has become seamless with all channels, and mobile is the driving force with what’s driving all commerce. Mobile ads are expected to generate $1.08 billion year on year.
 
-## Given a user and the page he (or she) is visiting. what is the probability that he (or she) will click on a given ad? The goal of this analysis is to benchmark the most accurate ML algorithms for CTR estimation.
+
 
 Data fields
+
 id: ad identifier
 click: 0/1 for non-click/click
 hour: format is YYMMDDHH, so 14091123 means 23:00 on Sept. 11, 2014 UTC.
